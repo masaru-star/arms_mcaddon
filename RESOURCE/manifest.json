@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "Implements all types of weapons (this is a test add-on)",
+   "name": "military power",
+   "uuid":"15ac5615-2e33-4fb5-9eda-5fa488372560",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 16, 0]
+  },
+ "modules": [
+   {
+     "description": "Implements all types of weapons (this is a test add-on)",
+     "type": "resources",
+     "uuid": "866506c0-73fd-4e88-8e7c-effb6557dbb5",
+     "version": [1, 0, 0]
+   }
+ ]
+}
